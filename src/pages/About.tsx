@@ -9,8 +9,8 @@ const values = [
 ];
 
 const staff = [
-  { name: "Mr. S. Dlamini", role: "Principal" },
-  { name: "Mrs. T. Nkambule", role: "Deputy Principal" },
+  { name: "Mr. Vilane", role: "Principal" },
+  { name: "Mr. Dube", role: "Deputy Principal" },
   { name: "Mr. B. Maseko", role: "Head of Sciences" },
   { name: "Mrs. N. Simelane", role: "Head of Commerce" },
   { name: "Mr. L. Mamba", role: "Head of Languages" },
@@ -78,7 +78,7 @@ const About = () => (
               <Heart className="h-7 w-7 text-secondary" />
             </div>
             <div>
-              <h3 className="font-semibold text-foreground">Mr. S. Dlamini</h3>
+              <h3 className="font-semibold text-foreground">Mr. Vilane</h3>
               <p className="text-sm text-muted-foreground">Principal</p>
             </div>
           </div>
